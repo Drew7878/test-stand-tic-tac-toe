@@ -1,5 +1,5 @@
 # test-stand-tic-tac-toe
-# Portfolio-Website-
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Table of Contents
 * descriptoin:
@@ -8,7 +8,7 @@
 * contact
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## description
-* basic website that is responsive featuriong a simple design including past projects, contact information, and a breif descriptoin of the author
+* a simple tic tac toe 
 
 ## technology
 *  The webiste was designed with figma and implenente wth HTML for the framework. CSS was to positon the elements and Javascript was used to add interactivity in form of a button that take input and display as well as clearing the display. 
